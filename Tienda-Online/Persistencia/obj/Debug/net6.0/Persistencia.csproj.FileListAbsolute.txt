@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\bin\Debug\net6.0\Modelo.dll
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\bin\Debug\net6.0\Modelo.pdb
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\marce\Desktop\Visual\Tienda-Online\Tienda-Online\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
